@@ -1,7 +1,7 @@
 import Ember from 'ember';
 
 var defaultSize = 16;
-var defaultCountry = "us";
+var defaultCountry = "uk";
 
 export function worldFlag(params) {
   var length, country, size;
